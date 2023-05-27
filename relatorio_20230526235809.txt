@@ -1,0 +1,21 @@
+Relatório de Ocorrências
+
+Período: 01/05/2023 00:00:00 - 31/05/2023 00:00:00
+Total de ocorrências: 4
+
+Tipo de Ocorrência: Alagamento
+Total de ocorrências desse tipo: 1
+Bairros: Jardins
+
+Tipo de Ocorrência: Desabamento 
+Total de ocorrências desse tipo: 1
+Bairros: Aruana
+
+Tipo de Ocorrência: Queda de Árvore
+Total de ocorrências desse tipo: 1
+Bairros: Jabotiana
+
+Tipo de Ocorrência: Risco de deslizamento
+Total de ocorrências desse tipo: 1
+Bairros: Jardins
+
